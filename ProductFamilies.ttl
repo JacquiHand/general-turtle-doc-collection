@@ -363,8 +363,8 @@ source: a schema:CreativeWork ;
     oplpro:productFamilyCode "lod" ;
     schema:comment  """Virtuoso Data Access Driver for the World Wide Web""" ;
     schema:author <http://www.openlinksw.com/#this> ;
-    schema:image <https://www.openlinksw.com/DAV/oplweb3/images/logos/openlink-ai-layer-logo-100.png> ;
-    schema:logo <https://www.openlinksw.com/DAV/oplweb3/images/logos/openlink-ai-layer-logo-160.png> ;
+    schema:image <https://www.openlinksw.com/DAV/oplweb3/images/linked-open-data.png> ;
+    schema:logo <https://www.openlinksw.com/DAV/oplweb3/images/linked-open-data.png> ;
     oplsof:hasOperatingSystemFamily  <http://data.openlinksw.com/oplweb/opsys_family/Virtuoso#this> .
 
 <http://data.openlinksw.com/oplweb/product_family/loac#this>
@@ -381,7 +381,7 @@ source: a schema:CreativeWork ;
     oplpro:productFamilyCode "loac" ;
     schema:comment  """LOAC - applying Linked Data principles directly to commerce systems """ ;
     schema:author <http://www.openlinksw.com/#this> ;
-    schema:image <https://www.openlinksw.com/DAV/oplweb3/images/logos/openlink-ai-layer-logo-100.png> ;
-    schema:logo <https://www.openlinksw.com/DAV/oplweb3/images/logos/openlink-ai-layer-logo-160.png> ;
+    schema:image <https://www.openlinksw.com/DAV/oplweb3/images/linked-open-agentic-commerce.png> ;
+    schema:logo <https://www.openlinksw.com/DAV/oplweb3/images/linked-open-agentic-commerce.png> ;
     oplsof:hasOperatingSystemFamily  <http://data.openlinksw.com/oplweb/opsys_family/Virtuoso#this> .
 
